@@ -1,4 +1,4 @@
-// C program for the above approach
+// C program for Railway Reservation System
 #include <conio.h>
 #include <stdio.h>
 #include <stdlib.h>
